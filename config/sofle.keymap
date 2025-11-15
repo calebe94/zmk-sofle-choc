@@ -47,6 +47,7 @@
         delete {
             bindings = <&kp DELETE>;
             key-positions = <24 11>;
+            layers = <0>;
         };
 
         esc {
